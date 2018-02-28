@@ -1,0 +1,35 @@
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\BMW.accdb
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.exe
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.pdb
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.xml
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.Form1.resources
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.Form2.resources
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.Resources.resources
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.vbproj.GenerateResource.Cache
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.exe
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.xml
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.pdb
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.Form3.resources
+C:\Users\ygtcns\Documents\Visual Studio 2008\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.Form4.resources
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.exe
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.xml
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.pdb
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\bin\Debug\BMW.accdb
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\bin\Debug\WindowsApplication18.exe
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\bin\Debug\WindowsApplication18.pdb
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\bin\Debug\WindowsApplication18.xml
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.Form1.resources
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.Form2.resources
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.Form3.resources
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.Form4.resources
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.Form5.resources
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.Resources.resources
+C:\Users\ygtcns\Desktop\ONUR ARCA#\WindowsApplication18\obj\Debug\WindowsApplication18.vbproj.GenerateResource.Cache
+C:\Users\ygtcns\Desktop\ONUR ARCA##\WindowsApplication18\obj\Debug\WindowsApplication18.exe
+C:\Users\ygtcns\Desktop\ONUR ARCA##\WindowsApplication18\obj\Debug\WindowsApplication18.xml
+C:\Users\ygtcns\Desktop\ONUR ARCA##\WindowsApplication18\obj\Debug\WindowsApplication18.pdb
+D:\__--İLKREPK--__\Çalışmalar\visual basic projeler\galeri prgm\WindowsApplication18\obj\Debug\WindowsApplication18.exe
+D:\__--İLKREPK--__\Çalışmalar\visual basic projeler\galeri prgm\WindowsApplication18\obj\Debug\WindowsApplication18.xml
+D:\__--İLKREPK--__\Çalışmalar\visual basic projeler\galeri prgm\WindowsApplication18\obj\Debug\WindowsApplication18.pdb
